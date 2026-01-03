@@ -1,0 +1,11 @@
+numpy==1.26.4
+opencv-contrib-python==4.8.1.78
+mediapipe==0.10.9
+tensorflow-intel==2.16.1
+protobuf==3.20.3
+
+Pillow
+pandas
+scikit-learn
+matplotlib
+seaborn
