@@ -119,7 +119,7 @@ def func():
 def voice_to_sign():
     while 1:
         image   = "assets/voicetosign.png"
-        msg = "HEARING IMPAIRMENT ASSISTANT"
+        msg = "Voice to Gesture"
         choices = ["Live Voice", "All Done!"] 
         reply   = buttonbox(msg, image=image, choices=choices)
 
