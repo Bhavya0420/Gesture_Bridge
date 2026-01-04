@@ -2,7 +2,7 @@
 
 ### A Bi-Directional Sign Language Communication System
 
-Gesture Bridge is an AI-powered application that enables **two-way communication** between **hearing-impaired** and **hearing users** by converting:
+Gesture Bridge is an application that enables **two-way communication** between **hearing-impaired** and **hearing users** by converting:
 
 - ✋ **Sign Language → Text**
 - 🎙️ **Voice → Sign Language (GIFs & Letter Visuals)**
