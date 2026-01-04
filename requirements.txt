@@ -1,11 +1,21 @@
+# Core numerical & ML
 numpy==1.26.4
-opencv-contrib-python==4.8.1.78
-mediapipe==0.10.9
-tensorflow-intel==2.16.1
 protobuf==3.20.3
 
-Pillow
-pandas
-scikit-learn
-matplotlib
-seaborn
+# Computer Vision & Hand Tracking
+opencv-contrib-python==4.8.1.78
+mediapipe==0.10.9
+Pillow>=9.5.0
+
+# Deep Learning
+tensorflow-intel==2.16.1
+
+# Data handling & visualization
+pandas>=1.5.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.2
+
+# GUI & Audio
+easygui>=0.98.3
+SpeechRecognition>=3.10.0
