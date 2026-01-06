@@ -45,7 +45,7 @@ def func():
                 while True:
                         print("I am Listening")
                         audio = r.listen(source)
-                        # recognize speech using Sphinx
+                        # recognize speech using google speech recognition
                         try:
                                 a=r.recognize_google(audio)
                                 a = a.lower()
